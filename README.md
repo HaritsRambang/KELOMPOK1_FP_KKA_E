@@ -1,9 +1,9 @@
-                `FINAL PROJECT KKA` 
-``
-KELOMPOK 1:
-Rahman azkarafi prasetya(5025231044)
-M Rizal Febrianto(5025231258)
-``
-Implementasi kode simulated annealing dan hill climbing dalam mencari efisiensi waktu 
-maksimum dalam problem Reasource Allocation Problem(RAP) dengan melakukan perbandingan 
-hasil waktu paling optimal untuk pegawai dalam menyelesaikan pekerjaan.
+# FINAL PROJECT KKA
+
+## KELOMPOK 1:
+- **Rahman Azkarafi Prasetya** (5025231044)
+- **M Rizal Febrianto** (5025231258)
+
+### Implementasi kode Simulated Annealing dan Hill Climbing dalam mencari efisiensi waktu maksimum pada masalah Resource Allocation Problem (RAP).
+
+Dalam proyek ini, kami melakukan perbandingan hasil waktu paling optimal yang dibutuhkan pegawai dalam menyelesaikan pekerjaan menggunakan dua metode algoritma pencarian solusi, yaitu **Simulated Annealing** dan **Hill Climbing**.
