@@ -3,6 +3,8 @@
 ## KELOMPOK 1:
 - **Rahman Azkarafi Prasetya** (5025231044)
 - **M Rizal Febrianto** (5025231258)
+- **Leyan Harits R W** (50252312880)
+- **Juang Maulana T P** (5025231257)
 
 ### Implementasi kode Simulated Annealing dan Hill Climbing dalam mencari efisiensi waktu maksimum pada masalah Resource Allocation Problem (RAP).
 
