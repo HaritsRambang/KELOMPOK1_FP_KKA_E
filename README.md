@@ -15,12 +15,12 @@ Akibatnya, RAP yang muncul dari aplikasi yang baru muncul seringkali memerlukan 
 Hal ini dapat meningkatkan kompleksitas RAP; namun, berkat kemajuan terkini dalam daya komputasi dan performa algoritma, 
 cakupan masalah yang dapat diatasi juga telah berkembang secara signifikan.
 
-Rumusan 1.1
+Rumusan
 Pekerja belum secara optimal dapat mengalokasikan berbagai pekerjaan dengan mempertimbangkan waktu yang tersedia.
 Perbandingan kinerja algoritma Hill Climbang dan Simulated Annealing dalam menyelesaikan masalah alokasi sumber daya.
 Pemilihan algoritma yang tepat untuk memaksimalkan efisiensi alokasi sumber daya dalam penyelesaian tugas.
 
-Tujuan 1.2
+Tujuan
 Mengembangkan model alokasi sumber daya yang efisien guna mengoptimalkan waktu penyelesaian tugas berdasarkan pekerja yang tersedia.
 Melakukan analisa terhadap algoritma Hill Climbing dan Simulated Annealing dalam menyelesaikan masalah alokasi sumber daya.
 Menentukan algoritma paling efisien berdasarkan hasil penggunan kedua algoritma yang telah diuji.
