@@ -24,3 +24,7 @@ Tujuan
 Mengembangkan model alokasi sumber daya yang efisien guna mengoptimalkan waktu penyelesaian tugas berdasarkan pekerja yang tersedia.
 Melakukan analisa terhadap algoritma Hill Climbing dan Simulated Annealing dalam menyelesaikan masalah alokasi sumber daya.
 Menentukan algoritma paling efisien berdasarkan hasil penggunan kedua algoritma yang telah diuji.
+
+Kesimpulan
+Hill Climbing dan Simulated Annealing memiliki performa yang berbeda dalam menyelesaikan Resource Allocation Problem (RAP). Berdasarkan percobaan, Hill Climbing lebih efisien dengan rata-rata waktu penyelesaian yang lebih cepat pada iterasi yang lebih kecil. Namun, ketika jumlah iterasi dan kasus uji meningkat, kedua algoritma menunjukkan hasil yang hampir setara dalam efisiensi waktu, dengan Simulated Annealing sedikit lebih lambat tetapi tetap dapat mencapai solusi optimal.
+Dalam kasus ini, Hill Climbing unggul dalam iterasi yang lebih sedikit dan lebih cepat dalam mendapatkan solusi. Sebaliknya, Simulated Annealing tetap kompetitif dan memberikan fleksibilitas dalam menghindari solusi lokal, meskipun membutuhkan waktu yang sedikit lebih lama. Secara keseluruhan, Hill Climbing dapat menjadi pilihan yang lebih cepat untuk RAP sederhana, sedangkan Simulated Annealing dapat lebih optimal untuk RAP yang lebih kompleks dengan banyak iterasi.
